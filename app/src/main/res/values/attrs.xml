@@ -1,0 +1,10 @@
+<resources>
+    <!-- Expandable bottom button -->
+    <declare-styleable name="ExpandBottomButton">
+        <attr name="background_color" format="color" />
+        <attr name="corner_radius" format="integer" />
+        <attr name="margin_bottom" format="dimension" />
+        <attr name="margin_left" format="dimension" />
+        <attr name="margin_right" format="dimension" />
+    </declare-styleable>
+</resources>
