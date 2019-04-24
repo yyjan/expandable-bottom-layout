@@ -8,12 +8,12 @@
     <android.support.v4.widget.NestedScrollView
         android:id="@+id/container_scroll"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:layout_marginBottom="@dimen/buy_button_height">
+        android:layout_height="match_parent">
 
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/buy_button_height"
             android:orientation="vertical">
 
             <include layout="@layout/layout_product" />
